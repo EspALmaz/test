@@ -3,7 +3,7 @@
 
 - [Review] (#review)
 - [Call] (#call)
-- [Screenshot] (###screenshot)
+- [Screenshot] (#screenshot)
 - [Links] (#links)
 - [My process] (#my-process)
 - [Built-in] (#built-in)
@@ -22,7 +22,7 @@ The site must meet the requirements presented below
 ![](./finalRequirements.png)
 
 
-### Screenshot
+# Screenshot
 
 ![](./1.jpg)
 ![](./2.jpg)
