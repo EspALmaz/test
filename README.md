@@ -1,16 +1,16 @@
 # Final session
 ## Table of Contents
 
-- [Review]
-- [Call] 
-- [Screenshot]
-- [Links] 
-- [My process] 
-- [Built-in] 
-- [What I learned] 
-- [The continued development] 
-- [Useful resources] 
-- [Author] 
+- Review
+- Call 
+- Screenshot
+- Links 
+- My process 
+- Built-in 
+- What I learned 
+- The continued development 
+- Useful resources 
+- Author 
 
 
 
