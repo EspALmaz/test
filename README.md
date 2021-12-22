@@ -1,8 +1,8 @@
 # Final session
 ## Table of Contents
 
-- Review
-- Call 
+- Overview
+- Challenge 
 - Screenshot
 - Links 
 - My process 
@@ -14,7 +14,7 @@
 
 
 
-## Overview
+### Overview
 This project was developed and invented for the final exam on the subject of Introduction to Web Development. The project was done as well as possible and enough effort was spent. The project is a website dedicated to the subject of Harry Potter. The site is informative, interesting and also, in our opinion, useful. Useful because Harry Potter books carry a lot of ideas and thoughts. When you get acquainted with the work of J. K. Rowling, you can take a lot for yourself and understand to become better. It also describes many of the problems of our world.
 
 ### Challenge
@@ -22,17 +22,18 @@ The site must meet the requirements presented below
 ![](./finalRequirements.png)
 
 
-# Screenshot
+### Screenshot
 
 ![](./1.jpg)
 ![](./2.jpg)
 ![](./3.jpg)
 ![](./4.jpg)
+
 ### Links
 - Live Site URL: (https://espalmaz.github.io/practis-2/)
 
 
-## My process
+### My process
 
 During the execution of this project, we started working with writing HTML code, as this is the basis on which we worked further. Then after that we made all the necessary changes using CSS. And also, at the end of the work, JAVASCRIPT functions were added.
 
@@ -132,7 +133,7 @@ In the future, we are going to study various aspects of Javascript, HTML and CSS
 -  (https://www.javascript.com/learn ) - This site also helped a lot in writing Javascript code. Therefore, we recommend that when learning this language, look for information that will help here.
 
 - (https://developer.mozilla.org/ru /) this resource also has a lot of useful articles on various topics , on this site we found answers to some of our questions.
-## Authors
+### Authors
 Tashimov Almaz and Kiyas Laura
 - Website  ()
 - Repository ( )
